@@ -15,6 +15,8 @@ gem 'nested_form'
 gem 'carrierwave'
 gem 'rmagick'
 gem 'thin'
+gem 'therubyracer'
+gem 'libv8'
 
 group :assets do
     gem 'sass-rails',   '~> 4.0.0.beta1'
